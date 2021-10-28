@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jorge Garzón</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-- 🔭 I’m currently working on [in an image gallery](https://jgarzon97.github.io/Galeria-de-fotos/)
+- 🔭 I’m currently working on in an [image gallery](https://jgarzon97.github.io/Galeria-de-fotos/)
 
 - 🌱 I’m currently learning **courses in platzy...**
 
 - 👯 I’m looking to collaborate on **in a startup.**
 
-- 👨‍💻 All of my projects are available at [in my repository on github](https://github.com/jgarzon97)
+- 👨‍💻 All of my projects are available at in my repository on [github](https://github.com/jgarzon97?tab=repositories)
 
 - 💬 Ask me about **html, css, javascript and graphic design..**
 
