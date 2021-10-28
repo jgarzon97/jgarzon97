@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **in a startup.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jgarzon97](https://github.com/jgarzon97)
+- 👨‍💻 All of my projects are available at [in my repository on github](https://github.com/jgarzon97)
 
 - 💬 Ask me about **html, css, javascript and graphic design..**
 
