@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jorgegarzonizquierdo@gmail.com**
 
-- ⚡ I like to play **League of legends** and **Valorant.**
+- ⚡ I like to play **League of legends, Valorant** and **Brawl Stars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
