@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [in an image gallery](https://jgarzon97.github.io/Galeria-de-fotos/)
 
-- 🌱 I’m currently learning **studies and courses.**
+- 🌱 I’m currently learning **courses in platzi...**
 
 - 👯 I’m looking to collaborate on **in a startup.**
 
