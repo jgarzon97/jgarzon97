@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/jgarzon97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jgarzon97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jgarzon97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jgarzon97" height="30" width="40" /></a>
-<a href="https://es.stackoverflow.com/users/235977/jorge-garz%c3%b3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jgarzon97" height="30" width="40" /></a>
+<a href="https://es.stackoverflow.com/users/235977/jorge-garz%c3%b3n" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/es/Img/icon-48.png?v=e476a587da05" alt="jgarzon97" height="30" width="40" /></a>
 <a href="https://fb.com/jgarzon97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jgarzon97" height="30" width="40" /></a>
 </p>
 
