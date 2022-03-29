@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on in an [image gallery](https://jgarzon97.github.io/Galeria-de-fotos/)
 
-- 🌱 I’m currently learning **courses in platzy <a href="https://platzi.com/p/jgarzon97/"</a>**
+- 🌱 I’m currently learning **courses in platzy <a href="https://platzi.com/p/jgarzon97/">**
 
 - 👯 I’m looking to collaborate on **in a startup.**
 
