@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **courses in platzy <a href="https://platzi.com/p/jgarzon97/">https://platzi.com/p/jgarzon97/</a>**
 
-- 👯 I’m looking to collaborate on **in a startup.**
-
-- 👨‍💻 All of my projects are available at in my repository on [github](https://github.com/jgarzon97?tab=repositories)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jgarzon97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jgarzon97" height="30" width="40" /></a>
