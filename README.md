@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Restaurant orders](https://github.com/jgarzon97/Sistema-Restaurante)
 
-- 🌱 I’m currently learning **Angular Material, React and Python**
+- 🌱 I’m currently learning **Angular, React and Python**
 
 - 👨‍💻 All of my projects are available at [My web profile](https://jgarzon97.github.io/Perfil_web/)
 
