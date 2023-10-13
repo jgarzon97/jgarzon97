@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [My web profile](https://jgarzon97.github.io/Perfil_web/)
 
-- 💬 Ask me about **SQL, Java, and Bootstrap**
+- 💬 Ask me about **Database SQL, Java, and Bootstrap**
 
 - ⚡ Fun fact **I enjoy listening to audiobooks, and playing League of Legends is my favorite game**
 
