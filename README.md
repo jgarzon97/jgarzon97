@@ -1,5 +1,5 @@
 
-![6405318ac146473a95bfbdcec2b32943](https://i.imgur.com/lLfM33a.gif)
+![6405318ac146473a95bfbdcec2b32943](https://images.hive.blog/p/GTCx6Xsvc3waciBia5sMXa6dwqtvaNg8zgFVzn3sv1iWfDVjUqQR?format=match&mode=fit)
 
 <h1 align="center">Hi 👋, I'm Jorge Garzón</h1>
 <h3 align="center">Passionate about databases and backend development 💾🚀</h3>
