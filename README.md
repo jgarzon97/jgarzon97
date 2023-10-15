@@ -1,5 +1,4 @@
-
-![6405318ac146473a95bfbdcec2b32943](https://images.hive.blog/p/GTCx6Xsvc3waciBia5sMXa6dwqtvaNg8zgFVzn3sv1iWfDVjUqQR?format=match&mode=fit)
+![developer](https://github.com/jgarzon97/jgarzon97/assets/87027831/1eea4fb7-168b-40b8-b8fa-45e3e1cab208)
 
 <h1 align="center">Hi 👋, I'm Jorge Garzón</h1>
 <h3 align="center">Passionate about databases and backend development 💾🚀</h3>
