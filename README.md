@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/jgarzon97" target="blank"><img src="https://img.shields.io/twitter/follow/jgarzon97?logo=twitter&style=for-the-badge" alt="jgarzon97" /></a> </p>
 
-- 🔭 I’m currently working on [Restaurant orders](https://github.com/jgarzon97/Sistema-Restaurante)
+- 🔭 I’m currently working on **Library System**
 
 - 🌱 I’m currently learning **Angular, React and Python**
 
 - 👨‍💻 All of my projects are available at [My web profile](https://jgarzon97.github.io/Perfil_web/)
 
-- 💬 Ask me about **Database SQL, Java, and Bootstrap**
+- 💬 Ask me about **Database SQL, Java and Bootstrap**
 
 - ⚡ Fun fact **I enjoy listening to audiobooks, and playing League of Legends is my favorite game**
 
